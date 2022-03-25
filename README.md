@@ -18,6 +18,8 @@ This tool can be used to take and save notes within a web application. It uses e
 
 - [Technology](#technology)
 
+- [Links](#links)
+
 
 ## Installation
 
@@ -38,9 +40,15 @@ Usage and Code Examples:
 
 ## Contributors
 
-[Felix Petzsche GitHub Link](https://felix1805.github.io/Note-Taking-Application/).
+[Felix Petzsche GitHub Link](https://github.com/felix1805).
 
 
 ## Technology
 
 This application uses javascript, JEST, HTML, node.js scripting, node package management and inquirer. 
+
+## Links
+
+[GitHub Link](https://felix1805.github.io/Note-Taking-Application/).
+
+[Heroku Link](https://sheltered-sands-52656.herokuapp.com/).
