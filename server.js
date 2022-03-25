@@ -29,7 +29,7 @@ app.post('/api/notes', (req, res)=>{
     notesJson.push(req.body);
 
     fs.writeFileSync(path.join(__dirname, './db/db.json'), JSON.stringify(notesJson), 'utf-8');
-    res.json();
+    res.json("Your note was added!");
 });
 
 
